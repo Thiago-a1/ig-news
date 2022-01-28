@@ -43,7 +43,6 @@ export default NextAuth({
             )
           )
         )
-        console.log(user)
         return true;
       } catch (err) {
 
