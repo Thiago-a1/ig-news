@@ -7,8 +7,6 @@ import styles from './styles.module.scss';
 export function SighInButton() {
   const { data } = useSession();
 
-  console.log(data)
-
   return data ? (
     <button
       type="button"
