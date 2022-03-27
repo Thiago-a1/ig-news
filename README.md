@@ -35,24 +35,24 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 set the following environment variables 
 
-#stripe
-NEXT_PUBLIC_STRIPE_PUBLIC_KEY
-STRIPE_API_KEY
-STRIPE_WEBHOOK_SECRET
-STRIPE_SUCCESS_URL
-STRIPE_CANCEL_URL
+#stripe <br>
+NEXT_PUBLIC_STRIPE_PUBLIC_KEY <br>
+STRIPE_API_KEY <br>
+STRIPE_WEBHOOK_SECRET <br>
+STRIPE_SUCCESS_URL <br>
+STRIPE_CANCEL_URL <br>
 
-#github 
-GITHUB_ID
-GITHUB_SECRET
+#github <br>
+GITHUB_ID <br>
+GITHUB_SECRET <br>
 
-#next
-SECRET
-NEXTAUTH_URL
+#next <br>
+SECRET <br>
+NEXTAUTH_URL <br>
 
-#fauna
-FAUNADB_SECRET
+#fauna <br>
+FAUNADB_SECRET <br>
 
-#prismic CMS
-PRISMIC_ENDPOINT
-PRISMIC_ACCESS_TOKEN
+#prismic CMS <br> 
+PRISMIC_ENDPOINT <br>
+PRISMIC_ACCESS_TOKEN <br>
