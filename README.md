@@ -32,3 +32,27 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+set the following environment variables 
+
+#stripe
+NEXT_PUBLIC_STRIPE_PUBLIC_KEY
+STRIPE_API_KEY
+STRIPE_WEBHOOK_SECRET
+STRIPE_SUCCESS_URL
+STRIPE_CANCEL_URL
+
+#github 
+GITHUB_ID
+GITHUB_SECRET
+
+#next
+SECRET
+NEXTAUTH_URL
+
+#fauna
+FAUNADB_SECRET
+
+#prismic CMS
+PRISMIC_ENDPOINT
+PRISMIC_ACCESS_TOKEN
